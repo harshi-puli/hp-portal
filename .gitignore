@@ -1,0 +1,59 @@
+# ===========================================
+# Node / React
+# ===========================================
+harshinip/node_modules/
+harshinip/.env
+harshinip/build/
+harshinip/.DS_Store
+harshinip/npm-debug.log*
+harshinip/yarn-debug.log*
+harshinip/yarn-error.log*
+harshinip/.cache/
+harshinip/.parcel-cache/
+
+# React test coverage
+harshinip/coverage/
+
+# ===========================================
+# Python / Flask
+# ===========================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+instance/
+.env
+me/
+.env.local
+.env.*.local
+
+# ===========================================
+# System & Editor Files
+# ===========================================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ===========================================
+# Logs & Temp
+# ===========================================
+*.log
+*.tmp
+*.bak
+*.pid
+*.seed
+*.orig
+*.out
+
+# ===========================================
+# Environment / Secret Configs
+# ===========================================
+.env
+*.env
+secrets.json
+config.json
